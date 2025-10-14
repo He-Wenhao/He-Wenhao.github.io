@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenhao He"
+title: ""
 excerpt: "PhD Student in Computational Science and Engineering @ MIT"
 author_profile: true
 redirect_from: 
@@ -9,11 +9,11 @@ redirect_from:
 ---
 ## About Me
 
-I am a **Master-to-PhD student** in the [Computational Science and Engineering (CSE)](https://cse.mit.edu/) program at **MIT**, advised by **Prof. Ju Li**.
-My research focuses on **machine learning for quantum chemistry and quantum computation**, developing hybrid quantum–classical approaches for accurate and scalable electronic-structure prediction.
+I am a **PhD student** in the [Computational Science and Engineering (CSE)](https://cse.mit.edu/) program at **MIT**, advised by **Prof. Ju Li**.
+I previously earned my **B.S. in Physics** from **Peking University**, where I worked with **Prof. Xiao Yuan**, **Prof. Tongyang Li**, and **Prof. Biao Wu**, and had the privilege of collaborating with **Prof. Liang Jiang** as a research intern at the University of Chicago.
 
-Previously, I earned my **B.S. in Physics** from **Peking University**, where I worked with **Prof. Xiao Yuan**, **Prof. Tongyang Li**, and **Prof. Biao Wu** on quantum information, hybrid algorithms, and optimal control.
-
+My research interests have evolved from **quantum information science** toward **electronic structure theory**, where I develop **machine-learning methods** to accelerate and generalize quantum chemical simulations.
+I am broadly interested in **computational condensed matter and quantum many-body physics**, aiming to bridge **numerical algorithms, physical modeling, and data-driven representations** of correlated electronic systems.
 
 ## Publications
 
