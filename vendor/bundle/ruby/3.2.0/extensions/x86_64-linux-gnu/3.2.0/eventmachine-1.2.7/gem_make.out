@@ -1,0 +1,19 @@
+current directory: /home/hewenhao/Documents/wenhaohe/research/He-Wenhao.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/hewenhao/Documents/wenhaohe/research/He-Wenhao.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251014-7546-u9o4v3 sitelibdir\=./.gem.20251014-7546-u9o4v3 clean
+
+current directory: /home/hewenhao/Documents/wenhaohe/research/He-Wenhao.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251014-7546-u9o4v3 sitelibdir\=./.gem.20251014-7546-u9o4v3
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/hewenhao/Documents/wenhaohe/research/He-Wenhao.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251014-7546-u9o4v3 sitelibdir\=./.gem.20251014-7546-u9o4v3 install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20251014-7546-u9o4v3
+
+current directory: /home/hewenhao/Documents/wenhaohe/research/He-Wenhao.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251014-7546-u9o4v3 sitelibdir\=./.gem.20251014-7546-u9o4v3 clean
