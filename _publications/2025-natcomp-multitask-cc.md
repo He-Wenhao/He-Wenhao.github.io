@@ -8,9 +8,4 @@ venue: 'Nature Computational Science 5, 144–154 (2025)'
 paperurl: 'https://www.nature.com/articles/s43588-025-00652-y'
 citation: 'Hao Tang, Brian Xiao, Wenhao He, Pero Subasic, Avetik R. Harutyunyan, Yao Wang, Fang Liu, Haowei Xu, Ju Li. (2025). "Approaching coupled-cluster accuracy for molecular electronic structures with multi-task learning." <i>Nature Computational Science</i> 5, 144–154 (2025).'
 ---
-
-This work approaches coupled-cluster accuracy for molecular electronic structures using multi-task learning.
-
 [Download paper here](https://www.nature.com/articles/s43588-025-00652-y)
-
-Recommended citation: Hao Tang, Brian Xiao, Wenhao He, Pero Subasic, Avetik R. Harutyunyan, Yao Wang, Fang Liu, Haowei Xu, Ju Li. (2025). "Approaching coupled-cluster accuracy for molecular electronic structures with multi-task learning." <i>Nature Computational Science</i> 5, 144–154 (2025).
