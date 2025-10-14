@@ -46,4 +46,4 @@ I am broadly interested in **computational condensed matter and quantum many-bod
   *Lorentz Quantum Computer.*
   **Chinese Phys. B**, 32, 040304 (2023).
 
-[Google Scholar →](https://scholar.google.com/citations?user=XXXXXXX) <!-- Replace with your actual Scholar ID -->
+[Google Scholar →](https://scholar.google.com/citations?user=wSm8eLgAAAAJ&hl=en)
