@@ -10,7 +10,7 @@ redirect_from:
 ## About Me
 
 I am a **PhD student** in the [Computational Science and Engineering (CSE)](https://cse.mit.edu/) program at **MIT**, advised by **Prof. Ju Li**.
-I previously earned my **B.S. in Physics** from **Peking University**, where I worked with **Prof. Xiao Yuan**, **Prof. Tongyang Li**, and **Prof. Biao Wu**, and had the privilege of collaborating with **Prof. Liang Jiang** as a research intern at the University of Chicago.
+I previously earned my **B.S. in Physics** from **Peking University**, where I worked with **Prof. Xiao Yuan** and had the privilege of collaborating with **Prof. Liang Jiang** as a research intern at the University of Chicago.
 
 My research interests have evolved from **quantum information science** toward **electronic structure theory**, where I develop **machine-learning methods** to accelerate and generalize quantum chemical simulations.
 I am broadly interested in **computational condensed matter and quantum many-body physics**, aiming to bridge **numerical algorithms, physical modeling, and data-driven representations** of correlated electronic systems.
