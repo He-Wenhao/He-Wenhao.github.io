@@ -37,7 +37,7 @@ I am broadly interested in computational condensed matter and quantum many-body 
    <sup>\*</sup>Co-first authors.
 
 5. [*Efficient Optimal Control of Open Quantum Systems.*](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.3)  
-   **arXiv:2405.19245**, TQC 2024.  
+   **TQC 2024**, 10.4230/LIPIcs.TQC.2024.3  
    **Wenhao He**, Tongyang Li, Xiantao Li, Zecheng Li, Chunhao Wang, Ke Wang.
 
 6. [*Scaling of entangling-gate errors in large ion crystals.*](https://iopscience.iop.org/article/10.1088/1751-8121/ad6ab5)  
