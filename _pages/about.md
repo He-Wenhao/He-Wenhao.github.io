@@ -16,7 +16,7 @@ My research interests have evolved from quantum information science toward elect
 
 I am broadly interested in computational condensed matter and quantum many-body physics, aiming to bridge numerical algorithms, physical modeling, and data-driven representations of correlated electronic systems.
 
-### Publications
+## Publications
 
 1. [*Approaching coupled-cluster accuracy for molecular electronic structures with multi-task learning.*](https://www.nature.com/articles/s43588-024-00747-9)  
    **Nature Computational Science**, 5, 144–154 (2025).  
