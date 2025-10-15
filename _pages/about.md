@@ -9,41 +9,50 @@ redirect_from:
 ---
 ## About Me
 
-I am a **PhD student** in the [Computational Science and Engineering (CSE)](https://cse.mit.edu/) program at **MIT**, advised by **Prof. Ju Li**.
-I previously earned my **B.S. in Physics** from **Peking University**, where I worked with **Prof. Xiao Yuan** and had the privilege of collaborating with **Prof. Liang Jiang** as a research intern at the University of Chicago.
+I am a PhD student in the [Computational Science and Engineering (CSE)](https://cse.mit.edu/) program at MIT, advised by Prof. Ju Li.
+I previously earned my B.S. in Physics from Peking University, where I worked with Prof. Xiao Yuan and had the privilege of collaborating with Prof. Liang Jiang as a research intern at the University of Chicago.
 
-My research interests have evolved from **quantum information science** toward **electronic structure theory**, where I develop **machine-learning methods** to accelerate and generalize quantum chemical simulations.
-I am broadly interested in **computational condensed matter and quantum many-body physics**, aiming to bridge **numerical algorithms, physical modeling, and data-driven representations** of correlated electronic systems.
+My research interests have evolved from quantum information science toward electronic structure theory, where I develop machine-learning methods to accelerate and generalize quantum chemical simulations.
 
-## Publications
+I am broadly interested in computational condensed matter and quantum many-body physics, aiming to bridge numerical algorithms, physical modeling, and data-driven representations of correlated electronic systems.
 
-- **Hao Tang**, Brian Xiao, **Wenhao He**, Pero Subasic, Avetik R. Harutyunyan, Yao Wang, Fang Liu, Haowei Xu, Ju Li.
-  *Approaching coupled-cluster accuracy for molecular electronic structures with multi-task learning.*
-  **Nature Computational Science**, 5, 144–154 (2025).
-- Xiao-Ming Zhang, Yukun Zhang, **Wenhao He**, Xiao Yuan.
-  *Exponential Quantum Advantages for Practical Non-Hermitian Eigenproblems.*
-  **Phys. Rev. Lett.**, 135, 140601 (2024).
-- Guo Zheng<sup>\*</sup>, **Wenhao He<sup>\*</sup>**, Gideon Lee, Liang Jiang.
-  *The near-optimal performance of quantum error-correction codes.*
-  **Phys. Rev. Lett.**, 132, 250602 (2024).
-  <sup>\*</sup>Co-first authors
-- Guo Zheng<sup>\*</sup>, **Wenhao He<sup>\*</sup>**, Gideon Lee, Kyungjoo Noh, Liang Jiang.
-  *Performance and achievable rates of the Gottesman–Kitaev–Preskill code for pure-loss and amplification channels.*
-  **PRX Quantum**, 6, 030314 (2024).
-  <sup>\*</sup>Co-first authors
-- **Wenhao He**, Tongyang Li, Xiantao Li, Zecheng Li, Chunhao Wang, Ke Wang.
-  *Efficient Optimal Control of Open Quantum Systems.*
-  **arXiv:2405.1924**, accepted talk at TQC 2024 and QSim 2024.
-- **Wenhao He<sup>\*</sup>**, Wenhao Zhang<sup>\*</sup>, Xiao Yuan, Yangchao Shen, Xiao-Ming Zhang.
-  *Scaling of entangling-gate errors in large ion crystals.*
-  **J. Phys. A: Math. Theor.**, 57, 375306 (2024).
-  <sup>\*</sup>Co-first authors
-- Junxiang Huang<sup>\*</sup>, **Wenhao He<sup>\*</sup>**, Yukun Zhang, Yusen Wu, Bujiao Wu, Xiao Yuan.
-  *Tensor Network Assisted Variational Quantum Algorithm.*
-  **Phys. Rev. A**, 108, 052407 (2023).
-  <sup>\*</sup>Co-first authors
-- **Wenhao He**, Zhenduo Wang, Biao Wu.
-  *Lorentz Quantum Computer.*
-  **Chinese Phys. B**, 32, 040304 (2023).
+### Publications
+
+1. [*Approaching coupled-cluster accuracy for molecular electronic structures with multi-task learning.*](https://www.nature.com/articles/s43588-025-00679-8)  
+   **Nature Computational Science**, 5, 144–154 (2025).  
+   Hao Tang, Brian Xiao, **Wenhao He**, Pero Subasic, Avetik R. Harutyunyan, Yao Wang, Fang Liu, Haowei Xu, Ju Li.
+
+2. [*Exponential Quantum Advantages for Practical Non-Hermitian Eigenproblems.*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.135.140601)  
+   **Phys. Rev. Lett.**, 135, 140601 (2024).  
+   Xiao-Ming Zhang, Yukun Zhang, **Wenhao He**, Xiao Yuan.
+
+3. [*The near-optimal performance of quantum error-correction codes.*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.250602)  
+   **Phys. Rev. Lett.**, 132, 250602 (2024).  
+   Guo Zheng<sup>\*</sup>, **Wenhao He<sup>\*</sup>**, Gideon Lee, Liang Jiang.  
+   <sup>\*</sup>Co-first authors.
+
+4. [*Performance and achievable rates of the Gottesman–Kitaev–Preskill code for pure-loss and amplification channels.*](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.030314)  
+   **PRX Quantum**, 6, 030314 (2024).  
+   Guo Zheng<sup>\*</sup>, **Wenhao He<sup>\*</sup>**, Gideon Lee, Kyungjoo Noh, Liang Jiang.  
+   <sup>\*</sup>Co-first authors.
+
+5. [*Efficient Optimal Control of Open Quantum Systems.*](https://arxiv.org/abs/2405.1924)  
+   **arXiv:2405.1924**, accepted talk at TQC 2024 and QSim 2024.  
+   **Wenhao He**, Tongyang Li, Xiantao Li, Zecheng Li, Chunhao Wang, Ke Wang.
+
+6. [*Scaling of entangling-gate errors in large ion crystals.*](https://iopscience.iop.org/article/10.1088/1751-8121/ad6b21)  
+   **J. Phys. A: Math. Theor.**, 57, 375306 (2024).  
+   **Wenhao He<sup>\*</sup>**, Wenhao Zhang<sup>\*</sup>, Xiao Yuan, Yangchao Shen, Xiao-Ming Zhang.  
+   <sup>\*</sup>Co-first authors.
+
+7. [*Tensor Network Assisted Variational Quantum Algorithm.*](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.108.052407)  
+   **Phys. Rev. A**, 108, 052407 (2023).  
+   Junxiang Huang<sup>\*</sup>, **Wenhao He<sup>\*</sup>**, Yukun Zhang, Yusen Wu, Bujiao Wu, Xiao Yuan.  
+   <sup>\*</sup>Co-first authors.
+
+8. [*Lorentz Quantum Computer.*](https://iopscience.iop.org/article/10.1088/1674-1056/acb4b2)  
+   **Chinese Phys. B**, 32, 040304 (2023).  
+   **Wenhao He**, Zhenduo Wang, Biao Wu.
+
 
 [Google Scholar →](https://scholar.google.com/citations?user=wSm8eLgAAAAJ&hl=en)
