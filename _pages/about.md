@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "PhD Student in Computational Science and Engineering @ MIT"
+excerpt: "PhD candidate in Computational Science and Engineering @ MIT"
 author_profile: true
 redirect_from: 
   - /about/
